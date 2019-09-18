@@ -1,5 +1,4 @@
-# 19T2_COMP9315
-Database System Implementation
+# Database System Implementation
 
 Complying with UNSW Policy on Academic Honesty and Plagiarism, the assignments are always uploaded at least seven days after the deadline.
 
